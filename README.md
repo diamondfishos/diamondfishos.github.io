@@ -1,3 +1,3 @@
-# CutefishOS's github page
+# DiamondfishOS's github page
 
 hello
